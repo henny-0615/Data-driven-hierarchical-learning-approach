@@ -18,6 +18,6 @@ python train.py
 ## Additional Useful Information
 
 ## Acknowledgement
-Thanks the authors for their works:
-  [CORL](https://github.com/tinkoff-ai/CORL)
-  [MatchFormer](https://github.com/jamycheung/MatchFormer)
+Thanks the authors for their works:  
+[CORL](https://github.com/tinkoff-ai/CORL)  
+[MatchFormer](https://github.com/jamycheung/MatchFormer)
