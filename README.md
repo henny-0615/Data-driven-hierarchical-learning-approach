@@ -15,7 +15,9 @@ pip install -r requirements\requirements.txt
 ```html<div style="background-color: #f0f0f0; padding: 10px;">
 python train.py
 ```
-## Additional Useful Information
+## Additional Useful Information  
+Configuration [files](https://drive.google.com/drive/folders/118OspgB4jOaqOzKRI6am5WIuFLVxJD3V?usp=sharing) for controlling the PTZ camera and 
+a simulation [environment](https://drive.google.com/drive/folders/1f3L6oyLOSDXIoXSdqLRRrdrR7PhgbGD7?usp=sharing) developed based on Unity are available.
 
 ## Acknowledgement
 Thanks the authors for their works:  
