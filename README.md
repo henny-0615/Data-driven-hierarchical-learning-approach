@@ -15,3 +15,9 @@ pip install -r requirements\requirements.txt
 ```html<div style="background-color: #f0f0f0; padding: 10px;">
 python train.py
 ```
+## Additional Useful Information
+
+## Acknowledgement
+Thanks the authors for their works:
+[CORL](https://github.com/tinkoff-ai/CORL)
+[MatchFormer](https://github.com/jamycheung/MatchFormer)
