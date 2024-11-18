@@ -19,5 +19,5 @@ python train.py
 
 ## Acknowledgement
 Thanks the authors for their works:
-[CORL](https://github.com/tinkoff-ai/CORL)
-[MatchFormer](https://github.com/jamycheung/MatchFormer)
+  [CORL](https://github.com/tinkoff-ai/CORL)
+  [MatchFormer](https://github.com/jamycheung/MatchFormer)
